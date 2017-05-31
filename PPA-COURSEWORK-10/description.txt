@@ -1,0 +1,1 @@
+First a Farm is created. Next a harvester and combine harvester are added to the Farm. Then 5 of each type of crop is added to the Farm. Afterwards it harvests the Farm and then outputs the profit the Farm produces to the standard out.
