@@ -21,3 +21,6 @@ Tools needed:
 Bash - You should be running a bash based operating system because it runs some commands that are strictly for them.
 PDFLatex - Also you should have pdflatex installed on the command line so it can generate the pdf.
 Google Chrome - After it has finished it automatically displays the pdf in google chrome.
+
+
+I've added my PPA 10 to show how it works with my code properly, I will also upload the java Auto Doc if you want to see how your code can be turned into pseudocode.
